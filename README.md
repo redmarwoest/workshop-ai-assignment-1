@@ -94,7 +94,7 @@ To get up and running with the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/assignment-1.git
+    git clone https://github.com/redmarwoest/workshop-ai-assignment-1.git
     ```
 
 2. **Install dependencies**:
