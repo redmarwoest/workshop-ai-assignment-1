@@ -37,6 +37,9 @@ A Figma design file is available to guide the UI/UX:
 sudo launchctl unload /Library/LaunchDaemons/com.zscaler.service.plist
 sudo launchctl unload /Library/LaunchDaemons/com.zscaler.tunnel.plist
 
+---
+
+
 ## ✅ Functional Requirements
 
 The application should include the following features:
