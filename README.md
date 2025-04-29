@@ -36,6 +36,7 @@ A Figma design file is available to guide the UI/UX:
 ```bash
 sudo launchctl unload /Library/LaunchDaemons/com.zscaler.service.plist
 sudo launchctl unload /Library/LaunchDaemons/com.zscaler.tunnel.plist
+```
 
 ---
 
@@ -123,3 +124,4 @@ To get up and running with the project:
     ```
 
 ---
+
