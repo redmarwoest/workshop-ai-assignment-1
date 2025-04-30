@@ -30,7 +30,8 @@ A Figma design file is available to guide the UI/UX:
 - **Cursor** – AI-powered code editor  
 - **Next.js** – Fullstack React framework  
 - **Vercel** – Deployment platform for frontend and serverless functions  
-- **Microsoft 365 CoPilot API** – [API Docs](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/overview-api-plugins)
+- **Microsoft 365 CoPilot API** – [API Docs](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/build-api-plugins-new-api)
+- **OpenAI developer platform** – [API Docs](https://platform.openai.com/docs/overview)
 
 > 🔧 **Note**: To enable API access, you may need to **disable Zscaler**:
 ```bash
